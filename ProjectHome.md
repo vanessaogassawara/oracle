@@ -1,0 +1,1 @@
+Oracle is a crystal structure predictor based upon simulated annealing.  It is made up of a number of C++ classes (the CrystalClasses) which provide a number of file formats and potentials.  Currently, energy can be evaluated using extended Hückel, electrostatic (Wolf Sum), and Lennard-Jones (Universal Force Field) potentials.
